@@ -1,1 +1,1 @@
-# judges-solutions
+LSCCT
