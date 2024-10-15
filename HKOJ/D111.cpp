@@ -5,7 +5,8 @@ signed main() {
     double w, h;
     cin >> w >> h;
     double bmi = w / pow(h, 2);
-    cout << setprecision(3) << bmi;
+    cout << setprecision(3) << bmi << "\n";
+
     if (bmi < 18.5) {
         cout << "Underweight\n";
     } else if (bmi < 23) {
